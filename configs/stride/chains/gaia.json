@@ -1,0 +1,19 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "HakanWallet",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://38.242.129.60:23657",
+    "account-prefix": "cosmos",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001uatom",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
+
+
+
